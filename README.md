@@ -1,5 +1,10 @@
 # AI Researcher & Data Scientist  
-#### Technical Skills: Python, FastAPI, PyTorch, Transformers, Docker, PostgreSQL, Streamlit, React, LangChain, FAISS
+# 👋 Hi, I'm Loay
+
+I'm an **AI Engineer Intern @ Veepee** in Paris, France, where I'm working on benchmarking and evaluating **Large Language Models (LLMs)** for real-world business use cases.  
+Currently completing my **Master’s in Natural Language Processing** at the University of Nantes. I'm passionate about **Generative AI**, NLP, and building scalable AI tools that solve practical problems.
+
+I'm actively **seeking a position in Generative AI**, where I can contribute to research and development in LLMs, evaluation methods, and responsible AI systems.
 
 ---
 
@@ -20,7 +25,7 @@
 **AI Research & Development Assistant @ AI Movement, Rabat (_Feb 2024 – Jul 2024_)**  
 - Integrated ML into Branch-and-Bound algorithms for solving TSP.
 - Improved performance using GCNNs: 11–16% gains across TSP variants.
-- **Tools:** PyTorch, Ecole, SCIP, Numpy, Docplex, W&B.
+- **Tools:** PyTorch, SCIP, Numpy, Docplex, Weight&Biases.
 
 **Data Science Intern @ SQLI, Rabat (_Jul 2023 – Sep 2023_)**  
 - Built a web-based **sentiment analysis** pipeline for e-commerce reviews.
@@ -31,11 +36,32 @@
 
 ## Projects
 
-### Sales Process Optimization via NLP  
-_University Project (Sep 2024 – Nov 2024)_  
-- Developed a **RAG-based chatbot** to address customer review issues using natural queries.
-- Enabled data querying through **PandasAI** with a Streamlit interface.
-- **Stack:** LLaMA, LangChain, FAISS, Hugging Face, PandasAI, Streamlit
+### Synthetic Data Generation FOR AN E-commerce Chatbot use case
+GitHub: [Agent_E-Commerce-Chatbot](https://github.com/loaychlih/Agent_E-Commerce-Chatbot)
+
+A powerful synthetic data generation pipeline using the **Ragas** framework to simulate realistic e-commerce queries and personas.
+
+**Key Features:**
+- LLM-based query classification and knowledge graph construction
+- Synthetic data pipeline with 6 customer personas
+- Evaluation-ready test sets using Ragas
+- Integration with product databases and review sentiment
+
+**Tech:** Python, Flask, Ragas, Hugging Face, LangChain, FAISS
+
+---
+
+### Structured RAG Hotel Search Chatbot  
+GitHub: [Structured-RAG-Hotel-Search](https://github.com/loaychlih/Structured-RAG-Hotel-Search)
+
+An AI-powered hotel search chatbot that uses **structured query parsing + semantic search** to return smart hotel recommendations. Combines FastAPI and React with OpenAI and Qdrant for a real-time Chatbot.
+
+**Key Features:**
+- Extracts structured output (location, services, amenities) using GPT-4o
+- Ranks hotels with semantic + filter-based matching
+- Frontend shows personalized hotel cards with filters
+
+**Tech:** FastAPI, React (TypeScript), Qdrant, OpenAI GPT-4o
 
 ---
 
