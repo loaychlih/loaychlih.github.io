@@ -4,8 +4,8 @@
 ---
 
 ## Education
-- 🎓 Master’s in Data Science and NLP | University of Nantes (_Sep 2024 – Jun 2025_)  
-- 🎓 Engineering Degree in Computer Science | ENSIAS, Rabat (_Sep 2021 – Jun 2024_)
+- Master’s in NLP | University of Nantes (_Sep 2024 – Jun 2025_)  
+- Engineering Degree in Computer Science | ENSIAS, Rabat (_Sep 2021 – Jun 2024_)
 
 ---
 
@@ -39,25 +39,14 @@ _University Project (Sep 2024 – Nov 2024)_
 
 ---
 
-## Talks & Lectures  
-- Guest Talk: **"LLMs in Enterprise Applications"**, Veepee Tech, July 2025 *(Internal)*  
-- NLP Student Meetup, Nantes — Shared insights on RAG & evaluation pipelines *(Nov 2024)*
-
----
-
 ## Languages  
-- 🇲🇦 Arabic (native)  
-- 🇫🇷 French (fluent)  
-- 🇬🇧 English (fluent)  
-
----
-
-## Interests  
-Football ⚽ · Basketball 🏀 · Hackathons 💻 · Volunteering 🤝 · Model Evaluation 🔬
+- French (fluent)  
+- English (fluent)  
+- Arabic (native)  
 
 ---
 
 ## Connect with Me  
-- 📧 loaychlih00@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/loay-chlih)  
-- 💻 [GitHub](https://github.com/loaychlih)  
+- E-mail : loaychlih00@gmail.com  
+- LinkedIn :  [LinkedIn](https://www.linkedin.com/in/loay-chlih)  
+- Github : [GitHub](https://github.com/loaychlih)  
