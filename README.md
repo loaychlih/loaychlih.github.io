@@ -1,21 +1,63 @@
-# Data Scientist
+# AI Researcher & Data Scientist  
+#### Technical Skills: Python, FastAPI, PyTorch, Transformers, Docker, PostgreSQL, Streamlit, React, LangChain, FAISS
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+---
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- 🎓 Master’s in Data Science and NLP | University of Nantes (_Sep 2024 – Jun 2025_)  
+- 🎓 Engineering Degree in Computer Science | ENSIAS, Rabat (_Sep 2021 – Jun 2024_)
+
+---
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**AI Engineer Intern @ Veepee (Ventes Privées), Paris (_Feb 2025 – Aug 2025_)**  
+- Designed and implemented **Model Arena**, a modular benchmarking platform for LLMs.
+- Built an **LLM-as-a-Judge** evaluation pipeline to automate qualitative output assessments.
+- Integrated flexible evaluation metrics (accuracy, cost, token usage).
+- **Tools:** Python, FastAPI, PostgreSQL, Docker, React, LLM APIs.
+
+**AI Research & Development Assistant @ AI Movement, Rabat (_Feb 2024 – Jul 2024_)**  
+- Integrated ML into Branch-and-Bound algorithms for solving TSP.
+- Improved performance using GCNNs: 11–16% gains across TSP variants.
+- **Tools:** PyTorch, Ecole, SCIP, Numpy, Docplex, W&B.
+
+**Data Science Intern @ SQLI, Rabat (_Jul 2023 – Sep 2023_)**  
+- Built a web-based **sentiment analysis** pipeline for e-commerce reviews.
+- Benchmarked multiple NLP models and deployed the best one via API.
+- **Tools:** PyTorch, Hugging Face Transformers, NLTK, Streamlit.
+
+---
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+### Sales Process Optimization via NLP  
+_University Project (Sep 2024 – Nov 2024)_  
+- Developed a **RAG-based chatbot** to address customer review issues using natural queries.
+- Enabled data querying through **PandasAI** with a Streamlit interface.
+- **Stack:** LLaMA, LangChain, FAISS, Hugging Face, PandasAI, Streamlit
+
+---
+
+## Talks & Lectures  
+- Guest Talk: **"LLMs in Enterprise Applications"**, Veepee Tech, July 2025 *(Internal)*  
+- NLP Student Meetup, Nantes — Shared insights on RAG & evaluation pipelines *(Nov 2024)*
+
+---
+
+## Languages  
+- 🇲🇦 Arabic (native)  
+- 🇫🇷 French (fluent)  
+- 🇬🇧 English (fluent)  
+
+---
+
+## Interests  
+Football ⚽ · Basketball 🏀 · Hackathons 💻 · Volunteering 🤝 · Model Evaluation 🔬
+
+---
+
+## Connect with Me  
+- 📧 loaychlih00@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/loay-chlih)  
+- 💻 [GitHub](https://github.com/loaychlih)  
