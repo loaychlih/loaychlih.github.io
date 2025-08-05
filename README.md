@@ -36,7 +36,7 @@ I'm actively **seeking a position in Generative AI**, where I can contribute to 
 
 ## Projects
 
-### Synthetic Data Generation FOR AN E-commerce Chatbot use case
+### Synthetic Data Generation for an E-commerce Chatbot use case
 GitHub: [Agent_E-Commerce-Chatbot](https://github.com/loaychlih/Agent_E-Commerce-Chatbot)
 
 A powerful synthetic data generation pipeline using the **Ragas** framework to simulate realistic e-commerce queries and personas.
