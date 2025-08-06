@@ -1,4 +1,4 @@
-# AI Researcher & Data Scientist  
+# AI Researcher & Engineer  
 # 👋 Hi, I'm Loay
 
 I'm an **AI Engineer Intern @ Veepee** in Paris, France, where I'm working on benchmarking and evaluating **Large Language Models (LLMs)** for real-world business use cases.  
