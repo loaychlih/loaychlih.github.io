@@ -17,19 +17,23 @@ I'm actively **seeking a position in Generative AI**, where I can contribute to 
 ## Work Experience
 
 **AI Engineer Intern @ Veepee (Ventes Privées), Paris (_Feb 2025 – Aug 2025_)**  
-- Designed and implemented **Model Arena**, a modular benchmarking platform for LLMs.
+### Designed and developed "Model Arena": a platform for evaluating and comparing LLMs on use cases specific to Veepee.
+- At Veepee, any decision about LLMs now goes through this platform. It’s been adopted by several tech teams and has become the go-to standard for making reliable, traceable, and comparable LLM choices.
+- Designed of a scalable backend with message queues and asynchronous workers to orchestrate multi-provider API calls (OpenAI, Gemini, etc.) using a system of dynamic templates and structured output formats.
 - Built an **LLM-as-a-Judge** evaluation pipeline to automate qualitative output assessments.
 - Integrated flexible evaluation metrics (accuracy, cost, token usage).
 - **Tools:** Python, FastAPI, PostgreSQL, Docker, React, LLM APIs.
 
 **AI Research & Development Assistant @ AI Movement, Rabat (_Feb 2024 – Jul 2024_)**  
-- Integrated ML into Branch-and-Bound algorithms for solving TSP.
-- Improved performance using GCNNs: 11–16% gains across TSP variants.
+### Integrated ML into Branch-and-Bound algorithms for solving TSP.
+- Creation of a pipeline for generating TSP instances and benchmarking machine learning models.
+- Improved TSP solution time by integrating a GCNN model: gains of 11.44% for TSP-15, 16.24% for TSP-20, and 10.26% for TSP-25.
 - **Tools:** PyTorch, SCIP, Numpy, Docplex, Weight&Biases.
 
 **Data Science Intern @ SQLI, Rabat (_Jul 2023 – Sep 2023_)**  
-- Built a web-based **sentiment analysis** pipeline for e-commerce reviews.
-- Benchmarked multiple NLP models and deployed the best one via API.
+### Built a web-based **sentiment analysis** pipeline for e-commerce reviews.
+- Data extraction through web scraping and benchmarking of sentiment analysis models to identify the best-performing one.
+-  Integration of the best model as an API, enabling users to analyze their data via a web page.
 - **Tools:** PyTorch, Hugging Face Transformers, NLTK, Streamlit.
 
 ---
