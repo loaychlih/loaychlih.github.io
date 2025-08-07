@@ -49,7 +49,6 @@ A powerful synthetic data generation pipeline using the **Ragas** framework to s
 - LLM-based query classification and knowledge graph construction
 - Synthetic data pipeline with 6 customer personas
 - Evaluation-ready test sets using Ragas
-- Integration with product databases and review sentiment
 
 **Tech:** Python, Flask, Ragas, Hugging Face, LangChain, FAISS
 
