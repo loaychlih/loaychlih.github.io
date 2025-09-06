@@ -1,8 +1,7 @@
 # AI Researcher & Engineer  
 # 👋 Hi, I'm Loay
 
-I'm an **AI Engineer Intern @ Veepee** in Paris, France, where I'm working on benchmarking and evaluating **Large Language Models (LLMs)** for real-world business use cases.  
-Currently completing my **Master’s in Natural Language Processing** at the University of Nantes. I'm passionate about **Generative AI**, NLP, and building scalable AI tools that solve practical problems.
+I'm an **AI Engineer** who recently completed a final-year internship at Veepee in Paris, France, where I worked on benchmarking and evaluating Large Language Models (LLMs) for real-world business use cases. I hold a Master’s in Natural Language Processing from the University of Nantes and a degree in Computer Science Engineering from ENSIAS. I am passionate about Generative AI, NLP, and building scalable AI tools that solve practical problems.
 
 I'm actively **seeking a position in Generative AI**, where I can contribute to research and development in LLMs, evaluation methods, and responsible AI systems.
 
